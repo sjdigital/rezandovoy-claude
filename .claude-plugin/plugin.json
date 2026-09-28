@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "rezandovoy",
+  "displayName": "Rezandovoy",
+  "version": "0.3.0",
+  "description": "Encuentra y escucha oraciones guiadas de Rezandovoy con un tono cercano, natural e inspirador.",
+  "author": {
+    "name": "Compañía de Jesús Provincia de España",
+    "email": "jesuitas@jesuitas.es",
+    "url": "https://rezandovoy.org/"
+  },
+  "homepage": "https://rezandovoy.org/",
+  "repository": "https://github.com/sjdigital/rezandovoy-claude",
+  "license": "MIT",
+  "keywords": [
+    "rezandovoy",
+    "oracion",
+    "espiritualidad",
+    "audio",
+    "jesuitas"
+  ],
+  "mcpServers": "./.mcp.json"
+}
