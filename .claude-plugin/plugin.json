@@ -2,10 +2,10 @@
   "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
   "name": "rezandovoy",
   "displayName": "Rezandovoy",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Encuentra y escucha oraciones guiadas de Rezandovoy con un tono cercano, natural e inspirador.",
   "author": {
-    "name": "Compañía de Jesús Provincia de España",
+    "name": "Rezandovoy",
     "email": "jesuitas@jesuitas.es",
     "url": "https://rezandovoy.org/"
   },

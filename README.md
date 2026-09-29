@@ -5,6 +5,9 @@ MCP remoto de Rezandovoy:
 
 `https://apinueva.rezando.es/mcp/claude`
 
+Rezandovoy es un proyecto de la Compañía de Jesús Provincia de España. El
+repositorio técnico se publica desde SJDigital.
+
 No instala ni despliega otro backend. El mismo MCP sirve el catálogo y los
 audios a ChatGPT, Claude y otros clientes compatibles con Streamable HTTP.
 
