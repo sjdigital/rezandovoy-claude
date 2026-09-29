@@ -56,8 +56,8 @@ para localizar el contenido solicitado. No requiere una cuenta de Rezandovoy.
 La skill indica a Claude que generalice los detalles personales antes de una
 búsqueda y que no solicite información identificativa innecesaria.
 
-Política de privacidad:
-https://rezandovoy.org/politica-de-privacidad
+Privacidad del plugin:
+https://github.com/sjdigital/rezandovoy-claude/blob/main/PRIVACY.md
 
 Contacto: jesuitas@jesuitas.es
 

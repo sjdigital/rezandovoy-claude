@@ -10,7 +10,7 @@
     "url": "https://rezandovoy.org/"
   },
   "homepage": "https://rezandovoy.org/",
-  "privacyPolicyUrl": "https://rezandovoy.org/politica-de-privacidad",
+  "privacyPolicyUrl": "https://github.com/sjdigital/rezandovoy-claude/blob/main/PRIVACY.md",
   "repository": "https://github.com/sjdigital/rezandovoy-claude",
   "license": "MIT",
   "keywords": [
