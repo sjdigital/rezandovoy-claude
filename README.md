@@ -1,5 +1,7 @@
 # Rezandovoy para Claude
 
+![Icono de Rezandovoy](.claude-plugin/icon.png)
+
 Complemento de Claude que combina una skill de acompañamiento con el servidor
 MCP remoto de Rezandovoy:
 
@@ -26,7 +28,7 @@ introduce:
 
 `https://apinueva.rezando.es/mcp/claude`
 
-Este camino activa las herramientas, pero no instala la skill de tono y formato
+Este camino activa las herramientas, pero no instala la skill de acompañamiento
 incluida en el complemento.
 
 ## Instalación del complemento
@@ -56,10 +58,15 @@ para localizar el contenido solicitado. No requiere una cuenta de Rezandovoy.
 La skill indica a Claude que generalice los detalles personales antes de una
 búsqueda y que no solicite información identificativa innecesaria.
 
-Privacidad del plugin:
+Política de privacidad:
+https://rezandovoy.org/politica-de-privacidad
+
+Detalles del tratamiento en Claude:
 https://github.com/sjdigital/rezandovoy-claude/blob/main/PRIVACY.md
 
-Contacto: jesuitas@jesuitas.es
+Soporte: soporte@rezandovoy.com
+
+Documentación: este README y la guía de uso de la skill `skills/rezar/SKILL.md`.
 
 La licencia MIT cubre únicamente los archivos de este complemento. Los
 contenidos, imágenes y audios servidos por Rezandovoy conservan sus derechos

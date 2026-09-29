@@ -22,7 +22,9 @@ esos datos pueden llegar al servidor para procesar la consulta.
 ## Uso y conservación
 
 Rezandovoy usa los argumentos para atender la petición y consultar su propia
-API de catálogo. No guarda el texto de las búsquedas o de la conversación en
+API de catálogo. Para `search_prayers`, esa API transmite el texto de búsqueda
+a Google Gemini para generar una representación numérica y encontrar oraciones
+del catálogo. No guarda el texto de las búsquedas o de la conversación en
 una base de datos propia. En la configuración de producción, el registro del
 servidor MCP no incluye el contenido de las búsquedas. Se registran datos
 técnicos de funcionamiento, como la herramienta llamada, el resultado, la
@@ -38,8 +40,9 @@ disponible.
 
 Claude y el alojamiento de las conversaciones son servicios de Anthropic y
 están sujetos a sus propias condiciones y política de privacidad. El servidor
-MCP y la API de catálogo son infraestructura de Rezandovoy. El plugin no envía
-datos a otros servicios por su cuenta.
+MCP y la API de catálogo son infraestructura de Rezandovoy. La búsqueda de
+oraciones utiliza además Google Gemini, como indica la
+[política de privacidad general](https://rezandovoy.org/politica-de-privacidad).
 
 Para ejercer los derechos de protección de datos sobre la información tratada
 por Rezandovoy, consulta la
